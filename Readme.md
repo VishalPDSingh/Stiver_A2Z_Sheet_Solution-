@@ -23,21 +23,25 @@ Welcome to my repository where I solve problems from the **Striver A2Z DSA Sheet
 
 ## 📂 Folder Structure
 
+## 📂 Folder Structure
+
 ```
 Stiver_A2Z_Sheet_Solution/
-│
-├── [Basics](./Basics/)
-├── Sorting/
-├── Arrays/
-├── Binary_Search/
-├── Strings/
-├── Linked_List/
-├── Recursion/
-├── Stack_Queue/
-├── Trees/
-├── Graphs/
-└── Dynamic_Programming/
 ```
+
+* 📁 [Basics](./Basics/)
+* 📁 [Sorting](./Sorting/)
+* 📁 [Arrays](./Arrays/)
+* 📁 [Binary Search](./Binary_Search/)
+* 📁 [Strings](./Strings/)
+* 📁 [Linked List](./Linked_List/)
+* 📁 [Recursion](./Recursion/)
+* 📁 [Stack & Queue](./Stack_Queue/)
+* 📁 [Trees](./Trees/)
+* 📁 [Graphs](./Graphs/)
+* 📁 [Dynamic Programming](./Dynamic_Programming/)
+
+
 
 Each folder contains problems categorized topic-wise for easy navigation.
 
@@ -118,3 +122,6 @@ Special thanks to **Striver (Raj Vikramaditya)** and **takeUforward** for this a
 ---
 
 ⭐ If you find this repo helpful, consider giving it a star!
+
+
+
