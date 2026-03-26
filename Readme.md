@@ -23,12 +23,6 @@ Welcome to my repository where I solve problems from the **Striver A2Z DSA Sheet
 
 ## 📂 Folder Structure
 
-## 📂 Folder Structure
-
-```
-Stiver_A2Z_Sheet_Solution/
-```
-
 * 📁 [Basics](./Basics/)
 * 📁 [Sorting](./Sorting/)
 * 📁 [Arrays](./Arrays/)
@@ -41,9 +35,24 @@ Stiver_A2Z_Sheet_Solution/
 * 📁 [Graphs](./Graphs/)
 * 📁 [Dynamic Programming](./Dynamic_Programming/)
 
-
-
 Each folder contains problems categorized topic-wise for easy navigation.
+
+---
+
+## 📊 Progress Tracker
+
+| Topic               | Status         |
+| ------------------- | -------------- |
+| [Basics](./Basics/) | 🔄 In Progress |
+| Sorting             | ⏳ Pending      |
+| Arrays              | ⏳ Pending      |
+| Binary Search       | ⏳ Pending      |
+| Strings             | ⏳ Pending      |
+| Linked List         | ⏳ Pending      |
+| Recursion           | ⏳ Pending      |
+| Trees               | ⏳ Pending      |
+| Graphs              | ⏳ Pending      |
+| Dynamic Programming | ⏳ Pending      |
 
 ---
 
@@ -53,17 +62,6 @@ Each folder contains problems categorized topic-wise for easy navigation.
 * ✅ Build strong problem-solving skills
 * ✅ Master Data Structures & Algorithms
 * ✅ Prepare for coding interviews
-
----
-
-## 📊 Progress Tracker
-
-| Topic           
-| ------------------- 
-| * 📁 [Basics](./Basics/) 
-
-
-
 
 ---
 
@@ -116,6 +114,3 @@ Special thanks to **Striver (Raj Vikramaditya)** and **takeUforward** for this a
 ---
 
 ⭐ If you find this repo helpful, consider giving it a star!
-
-
-
