@@ -26,7 +26,7 @@ Welcome to my repository where I solve problems from the **Striver A2Z DSA Sheet
 ```
 Stiver_A2Z_Sheet_Solution/
 │
-├── [./Basics/]
+├── [Basics](./Basics/)
 ├── Sorting/
 ├── Arrays/
 ├── Binary_Search/
