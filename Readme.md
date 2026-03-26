@@ -58,18 +58,12 @@ Each folder contains problems categorized topic-wise for easy navigation.
 
 ## 📊 Progress Tracker
 
-| Topic               | Status         |
-| ------------------- | -------------- |
-| Basics              | 🔄 In Progress |
-| Sorting             | ⏳ Pending      |
-| Arrays              | 🔄 In Progress |
-| Binary Search       | ⏳ Pending      |
-| Strings             | ⏳ Pending      |
-| Linked List         | ⏳ Pending      |
-| Recursion           | ⏳ Pending      |
-| Trees               | ⏳ Pending      |
-| Graphs              | ⏳ Pending      |
-| Dynamic Programming | ⏳ Pending      |
+| Topic           
+| ------------------- 
+| * 📁 [Basics](./Basics/) 
+
+
+
 
 ---
 
