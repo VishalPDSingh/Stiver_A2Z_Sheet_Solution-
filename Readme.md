@@ -56,6 +56,12 @@ Each folder contains problems categorized topic-wise for easy navigation.
 
 ---
 
+[Arrays](./Arrays/)
+[Easy](./Easy/)
+## [LargestElement](./LargestElement/)
+
+
+
 ## 🎯 Goals
 
 * ✅ Complete full A2Z DSA Sheet
